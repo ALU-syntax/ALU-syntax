@@ -63,3 +63,9 @@
 <img src="https://raw.githubusercontent.com/ALU-syntax/ALU-syntax/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=woodiechek&label=Profile%20Views&color=1&icon=0&pretty=true" />
+</a>
+
+###
