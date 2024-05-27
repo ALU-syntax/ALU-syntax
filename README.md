@@ -65,7 +65,7 @@
 ###
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=woodiechek&label=Profile%20Views&color=1&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=woodiechek&label=Profile%20Views&color=12&icon=1&pretty=false" />
 </a>
 
 [![](https://visitcount.itsvg.in/api?id=woodiechek&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
