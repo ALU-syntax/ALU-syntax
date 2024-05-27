@@ -64,9 +64,10 @@
 
 ###
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=woodiechek&label=Profile%20Views&color=12&icon=1&pretty=false" />
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=woodiechek&style=for-the-badge">
 </a>
 
-[![](https://visitcount.itsvg.in/api?id=woodiechek&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
+![](https://hit.yhype.me/github/profile?user_id=68280149)
+
 ###
